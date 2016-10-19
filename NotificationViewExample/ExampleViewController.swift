@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import NotificationView
 
 private let kNotificationViewExampleCellID = "NotificationViewExampleCell"
 private let kNotificationViewStyles: [NotificationViewStyle] = [.Success, .Error, .Message, .Warning, .Custom(UIImage(named: "customIcon"))]
